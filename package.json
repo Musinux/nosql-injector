@@ -1,0 +1,11 @@
+{
+  "name": "nosql-inject",
+  "version": "1.0.0",
+  "description": "Commandline tool to find value of URL parameters based on Mongodb Regex function",
+  "main": "nosqlinjector.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Louis Cherel",
+  "license": "MIT"
+}
